@@ -1,0 +1,9 @@
+Viewing the difference between versions on two different files
+made it easy to see the things which were changed. This made
+finding the bug much easier.
+
+How could having easy access to the entire history of a file make 
+you a more efficient programmer in the long term?
+
+You can see the file or program in its entirety and how it
+evolved over time.
